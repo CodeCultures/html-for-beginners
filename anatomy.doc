@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html lang="en" xml:lang="en">
+ 
+<head>
+	<meta charset="utf-8">
+	<title>Design Shack</title>
+	<meta name="description" content="A Very Basic HTML5 Anatomy">
+	
+	<link rel="stylesheet" href="style.css">
+	<script src="js/jquery.js"></script>
+</head>
+ 
+<body>
+  <!-- Page Content Goes Here -->
+</body>
+</html>
